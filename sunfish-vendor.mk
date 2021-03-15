@@ -413,7 +413,6 @@ PRODUCT_PACKAGES += \
     ConnMO \
     DCMO \
     DMService \
-    DevicePersonalizationPrebuiltPixel4 \
     DiagMon \
     EuiccGoogle \
     EuiccSupportPixel \
