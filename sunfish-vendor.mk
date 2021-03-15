@@ -416,7 +416,6 @@ PRODUCT_PACKAGES += \
     DiagMon \
     EuiccGoogle \
     EuiccSupportPixel \
-    GCS \
     HardwareInfo \
     HotwordEnrollmentOKGoogleRT5514P \
     HotwordEnrollmentXGoogleRT5514P \
