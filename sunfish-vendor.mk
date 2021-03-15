@@ -404,12 +404,10 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     SSRestartDetector \
-    Tycho \
     VZWAPNLib \
     AmbientSensePrebuilt \
     AppDirectedSMSService \
     CarrierLocation \
-    CarrierServices \
     CarrierSettings \
     CarrierWifi \
     ConnMO \
